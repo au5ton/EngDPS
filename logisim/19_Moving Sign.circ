@@ -43,8 +43,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
   </options>
   <mappings>
     <tool lib="6" map="Button2" name="Menu Tool"/>
-    <tool lib="6" map="Ctrl Button1" name="Menu Tool"/>
     <tool lib="6" map="Button3" name="Menu Tool"/>
+    <tool lib="6" map="Ctrl Button1" name="Menu Tool"/>
   </mappings>
   <toolbar>
     <tool lib="6" name="Poke Tool"/>
@@ -73,63 +73,154 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
-    <wire from="(50,470)" to="(560,470)"/>
-    <wire from="(430,430)" to="(430,460)"/>
-    <wire from="(360,460)" to="(430,460)"/>
-    <wire from="(320,450)" to="(380,450)"/>
+    <wire from="(430,150)" to="(430,170)"/>
+    <wire from="(100,150)" to="(100,170)"/>
+    <wire from="(700,90)" to="(700,120)"/>
     <wire from="(270,430)" to="(270,460)"/>
-    <wire from="(410,450)" to="(470,450)"/>
-    <wire from="(90,430)" to="(90,460)"/>
+    <wire from="(130,150)" to="(130,170)"/>
+    <wire from="(640,270)" to="(670,270)"/>
+    <wire from="(600,170)" to="(610,170)"/>
     <wire from="(340,430)" to="(340,460)"/>
-    <wire from="(470,420)" to="(470,450)"/>
+    <wire from="(380,400)" to="(400,400)"/>
+    <wire from="(50,380)" to="(140,380)"/>
+    <wire from="(600,280)" to="(600,400)"/>
+    <wire from="(230,380)" to="(230,400)"/>
     <wire from="(180,460)" to="(250,460)"/>
-    <wire from="(320,420)" to="(320,450)"/>
+    <wire from="(640,30)" to="(640,60)"/>
+    <wire from="(470,420)" to="(470,440)"/>
     <wire from="(70,460)" to="(90,460)"/>
-    <wire from="(230,420)" to="(240,420)"/>
-    <wire from="(320,420)" to="(330,420)"/>
-    <wire from="(230,450)" to="(290,450)"/>
-    <wire from="(30,400)" to="(60,400)"/>
-    <wire from="(290,420)" to="(290,450)"/>
-    <wire from="(160,430)" to="(160,460)"/>
-    <wire from="(370,400)" to="(420,400)"/>
-    <wire from="(250,460)" to="(270,460)"/>
-    <wire from="(140,420)" to="(140,450)"/>
-    <wire from="(190,420)" to="(200,420)"/>
-    <wire from="(250,430)" to="(250,460)"/>
-    <wire from="(280,420)" to="(290,420)"/>
-    <wire from="(450,430)" to="(450,460)"/>
-    <wire from="(230,420)" to="(230,450)"/>
-    <wire from="(370,420)" to="(380,420)"/>
-    <wire from="(190,400)" to="(240,400)"/>
+    <wire from="(200,250)" to="(230,250)"/>
+    <wire from="(410,400)" to="(420,400)"/>
+    <wire from="(140,400)" to="(150,400)"/>
+    <wire from="(320,380)" to="(410,380)"/>
+    <wire from="(310,420)" to="(330,420)"/>
+    <wire from="(700,210)" to="(700,240)"/>
+    <wire from="(550,150)" to="(550,170)"/>
+    <wire from="(130,400)" to="(130,420)"/>
+    <wire from="(130,420)" to="(150,420)"/>
+    <wire from="(100,170)" to="(110,170)"/>
+    <wire from="(350,170)" to="(370,170)"/>
+    <wire from="(250,170)" to="(280,170)"/>
     <wire from="(270,460)" to="(340,460)"/>
-    <wire from="(20,460)" to="(70,460)"/>
-    <wire from="(460,400)" to="(510,400)"/>
-    <wire from="(70,430)" to="(70,460)"/>
-    <wire from="(460,420)" to="(470,420)"/>
+    <wire from="(400,420)" to="(420,420)"/>
+    <wire from="(140,380)" to="(140,400)"/>
+    <wire from="(670,240)" to="(670,270)"/>
+    <wire from="(520,150)" to="(520,170)"/>
+    <wire from="(190,400)" to="(200,400)"/>
+    <wire from="(460,170)" to="(470,170)"/>
     <wire from="(180,430)" to="(180,460)"/>
+    <wire from="(370,150)" to="(370,170)"/>
+    <wire from="(310,170)" to="(340,170)"/>
+    <wire from="(350,170)" to="(350,250)"/>
     <wire from="(360,430)" to="(360,460)"/>
-    <wire from="(430,460)" to="(450,460)"/>
-    <wire from="(200,420)" to="(200,450)"/>
-    <wire from="(50,420)" to="(60,420)"/>
-    <wire from="(410,420)" to="(420,420)"/>
-    <wire from="(340,460)" to="(360,460)"/>
+    <wire from="(50,400)" to="(60,400)"/>
+    <wire from="(50,440)" to="(470,440)"/>
+    <wire from="(70,150)" to="(70,170)"/>
+    <wire from="(700,120)" to="(730,120)"/>
+    <wire from="(340,170)" to="(350,170)"/>
+    <wire from="(110,170)" to="(130,170)"/>
+    <wire from="(190,170)" to="(220,170)"/>
     <wire from="(90,460)" to="(160,460)"/>
+    <wire from="(640,60)" to="(670,60)"/>
+    <wire from="(760,150)" to="(760,180)"/>
+    <wire from="(730,180)" to="(760,180)"/>
+    <wire from="(610,150)" to="(610,170)"/>
+    <wire from="(30,400)" to="(50,400)"/>
+    <wire from="(380,250)" to="(470,250)"/>
+    <wire from="(360,460)" to="(430,460)"/>
+    <wire from="(430,430)" to="(430,460)"/>
+    <wire from="(90,430)" to="(90,460)"/>
+    <wire from="(730,180)" to="(730,210)"/>
+    <wire from="(310,150)" to="(310,170)"/>
+    <wire from="(280,400)" to="(290,400)"/>
+    <wire from="(670,240)" to="(700,240)"/>
+    <wire from="(200,400)" to="(220,400)"/>
+    <wire from="(670,60)" to="(670,90)"/>
+    <wire from="(250,150)" to="(250,170)"/>
+    <wire from="(460,150)" to="(460,170)"/>
+    <wire from="(160,430)" to="(160,460)"/>
+    <wire from="(100,400)" to="(110,400)"/>
+    <wire from="(130,170)" to="(160,170)"/>
+    <wire from="(250,460)" to="(270,460)"/>
+    <wire from="(50,380)" to="(50,400)"/>
+    <wire from="(230,380)" to="(320,380)"/>
+    <wire from="(370,170)" to="(400,170)"/>
+    <wire from="(250,430)" to="(250,460)"/>
+    <wire from="(320,380)" to="(320,400)"/>
+    <wire from="(550,170)" to="(580,170)"/>
+    <wire from="(290,250)" to="(350,250)"/>
+    <wire from="(220,170)" to="(230,170)"/>
+    <wire from="(410,380)" to="(410,400)"/>
+    <wire from="(450,430)" to="(450,460)"/>
+    <wire from="(470,170)" to="(490,170)"/>
+    <wire from="(580,150)" to="(580,170)"/>
+    <wire from="(230,170)" to="(230,250)"/>
+    <wire from="(320,400)" to="(330,400)"/>
+    <wire from="(490,150)" to="(490,170)"/>
+    <wire from="(200,250)" to="(200,400)"/>
+    <wire from="(380,250)" to="(380,400)"/>
+    <wire from="(700,210)" to="(730,210)"/>
+    <wire from="(430,170)" to="(460,170)"/>
+    <wire from="(600,170)" to="(600,280)"/>
+    <wire from="(220,400)" to="(220,420)"/>
+    <wire from="(20,460)" to="(70,460)"/>
+    <wire from="(70,430)" to="(70,460)"/>
+    <wire from="(50,420)" to="(50,440)"/>
+    <wire from="(290,400)" to="(310,400)"/>
+    <wire from="(460,420)" to="(470,420)"/>
+    <wire from="(220,150)" to="(220,170)"/>
+    <wire from="(610,170)" to="(640,170)"/>
+    <wire from="(230,170)" to="(250,170)"/>
+    <wire from="(670,90)" to="(700,90)"/>
+    <wire from="(430,460)" to="(450,460)"/>
+    <wire from="(640,270)" to="(640,280)"/>
+    <wire from="(50,420)" to="(60,420)"/>
+    <wire from="(490,170)" to="(520,170)"/>
+    <wire from="(160,150)" to="(160,170)"/>
+    <wire from="(70,170)" to="(100,170)"/>
+    <wire from="(290,250)" to="(290,400)"/>
+    <wire from="(580,170)" to="(600,170)"/>
+    <wire from="(460,400)" to="(600,400)"/>
+    <wire from="(110,400)" to="(130,400)"/>
+    <wire from="(640,150)" to="(640,170)"/>
+    <wire from="(340,460)" to="(360,460)"/>
+    <wire from="(470,170)" to="(470,250)"/>
+    <wire from="(310,400)" to="(310,420)"/>
+    <wire from="(190,150)" to="(190,170)"/>
+    <wire from="(730,150)" to="(760,150)"/>
+    <wire from="(730,120)" to="(730,150)"/>
     <wire from="(450,460)" to="(520,460)"/>
+    <wire from="(230,400)" to="(240,400)"/>
     <wire from="(160,460)" to="(180,460)"/>
-    <wire from="(50,420)" to="(50,470)"/>
-    <wire from="(280,400)" to="(330,400)"/>
-    <wire from="(410,420)" to="(410,450)"/>
-    <wire from="(140,420)" to="(150,420)"/>
-    <wire from="(140,450)" to="(200,450)"/>
-    <wire from="(380,420)" to="(380,450)"/>
-    <comp lib="5" loc="(580,150)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#0000ff"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="5" loc="(640,270)" name="LED">
+    <wire from="(280,150)" to="(280,170)"/>
+    <wire from="(600,280)" to="(640,280)"/>
+    <wire from="(220,420)" to="(240,420)"/>
+    <wire from="(400,400)" to="(400,420)"/>
+    <wire from="(340,150)" to="(340,170)"/>
+    <wire from="(370,400)" to="(380,400)"/>
+    <wire from="(400,150)" to="(400,170)"/>
+    <wire from="(110,170)" to="(110,400)"/>
+    <wire from="(140,380)" to="(230,380)"/>
+    <comp lib="4" loc="(460,400)" name="D Flip-Flop"/>
+    <comp lib="5" loc="(670,60)" name="LED">
       <a name="facing" val="south"/>
       <a name="color" val="#ffff00"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="5" loc="(220,150)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#00ff00"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="5" loc="(460,150)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#ff0000"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="4" loc="(370,400)" name="D Flip-Flop"/>
+    <comp lib="5" loc="(730,180)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#ff0000"/>
       <a name="offcolor" val="#ffffff"/>
     </comp>
     <comp lib="5" loc="(520,150)" name="LED">
@@ -137,9 +228,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#ff0000"/>
       <a name="offcolor" val="#ffffff"/>
     </comp>
-    <comp lib="5" loc="(610,150)" name="LED">
+    <comp lib="5" loc="(400,150)" name="LED">
       <a name="facing" val="south"/>
-      <a name="color" val="#0000ff"/>
+      <a name="color" val="#ffff00"/>
       <a name="offcolor" val="#ffffff"/>
     </comp>
     <comp lib="5" loc="(640,150)" name="LED">
@@ -147,19 +238,30 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#0000ff"/>
       <a name="offcolor" val="#ffffff"/>
     </comp>
-    <comp lib="5" loc="(730,180)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#ff0000"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="5" loc="(670,240)" name="LED">
+    <comp lib="5" loc="(340,150)" name="LED">
       <a name="facing" val="south"/>
       <a name="color" val="#ffff00"/>
       <a name="offcolor" val="#ffffff"/>
     </comp>
-    <comp lib="5" loc="(250,150)" name="LED">
+    <comp lib="5" loc="(640,270)" name="LED">
       <a name="facing" val="south"/>
-      <a name="color" val="#00ff00"/>
+      <a name="color" val="#ffff00"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="4" loc="(280,400)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(30,400)" name="Clock"/>
+    <comp lib="5" loc="(160,150)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#0000ff"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="4" loc="(190,400)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(20,460)" name="Ground">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="5" loc="(670,240)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#ffff00"/>
       <a name="offcolor" val="#ffffff"/>
     </comp>
     <comp lib="5" loc="(70,150)" name="LED">
@@ -172,10 +274,19 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#ff0000"/>
       <a name="offcolor" val="#ffffff"/>
     </comp>
-    <comp lib="4" loc="(370,400)" name="D Flip-Flop"/>
-    <comp lib="5" loc="(670,60)" name="LED">
+    <comp lib="5" loc="(190,150)" name="LED">
       <a name="facing" val="south"/>
-      <a name="color" val="#ffff00"/>
+      <a name="color" val="#00ff00"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="5" loc="(580,150)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#0000ff"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="5" loc="(130,150)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#0000ff"/>
       <a name="offcolor" val="#ffffff"/>
     </comp>
     <comp lib="5" loc="(640,30)" name="LED">
@@ -183,82 +294,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#ffff00"/>
       <a name="offcolor" val="#ffffff"/>
     </comp>
-    <comp lib="5" loc="(730,120)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#ff0000"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="5" loc="(340,150)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#ffff00"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="4" loc="(280,400)" name="D Flip-Flop"/>
-    <comp lib="5" loc="(280,150)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#00ff00"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="5" loc="(430,150)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#ff0000"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="5" loc="(160,150)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#0000ff"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="5" loc="(700,210)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#ff0000"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="5" loc="(400,150)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#ffff00"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="5" loc="(190,150)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#00ff00"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
     <comp lib="5" loc="(550,150)" name="LED">
       <a name="facing" val="south"/>
       <a name="color" val="#0000ff"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="4" loc="(190,400)" name="D Flip-Flop"/>
-    <comp lib="5" loc="(370,150)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#ffff00"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="4" loc="(100,400)" name="D Flip-Flop"/>
-    <comp lib="5" loc="(130,150)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#0000ff"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="0" loc="(20,460)" name="Ground">
-      <a name="facing" val="west"/>
-    </comp>
-    <comp lib="5" loc="(460,150)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#ff0000"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="0" loc="(30,400)" name="Clock"/>
-    <comp lib="5" loc="(310,150)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#ffff00"/>
-      <a name="offcolor" val="#ffffff"/>
-    </comp>
-    <comp lib="4" loc="(460,400)" name="D Flip-Flop"/>
-    <comp lib="5" loc="(700,90)" name="LED">
-      <a name="facing" val="south"/>
-      <a name="color" val="#ff0000"/>
       <a name="offcolor" val="#ffffff"/>
     </comp>
     <comp lib="5" loc="(760,150)" name="LED">
@@ -266,7 +304,33 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#0000ff"/>
       <a name="offcolor" val="#ffffff"/>
     </comp>
-    <comp lib="5" loc="(220,150)" name="LED">
+    <comp lib="5" loc="(250,150)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#00ff00"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="4" loc="(100,400)" name="D Flip-Flop"/>
+    <comp lib="5" loc="(310,150)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#ffff00"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="5" loc="(370,150)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#ffff00"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="5" loc="(700,210)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#ff0000"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="5" loc="(730,120)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#ff0000"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="5" loc="(280,150)" name="LED">
       <a name="facing" val="south"/>
       <a name="color" val="#00ff00"/>
       <a name="offcolor" val="#ffffff"/>
@@ -274,6 +338,21 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="5" loc="(100,150)" name="LED">
       <a name="facing" val="south"/>
       <a name="color" val="#0000ff"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="5" loc="(700,90)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#ff0000"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="5" loc="(610,150)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#0000ff"/>
+      <a name="offcolor" val="#ffffff"/>
+    </comp>
+    <comp lib="5" loc="(430,150)" name="LED">
+      <a name="facing" val="south"/>
+      <a name="color" val="#ff0000"/>
       <a name="offcolor" val="#ffffff"/>
     </comp>
   </circuit>
